@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/babi-grammars/commit/4f4e49f99d8d18ee543401a967cb1e30fa0dd5c2",
       "git:hexsha": "4f4e49f99d8d18ee543401a967cb1e30fa0dd5c2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/babi-grammars/commit/2b5cd178eb7cd4d9722e6cdffa48327d8bb1879a",
